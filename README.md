@@ -15,6 +15,8 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ---
+
 You can either build this with `./build` or if you choose to grab this directly from docker with
 `docker run -it jfuhrmie/nginxbase-arm` both with work  
+
 ---
